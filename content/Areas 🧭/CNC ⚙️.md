@@ -1,0 +1,3 @@
+- [[Advice to New CNC Ops]]
+- [[ncl (g-code linter)]]
+- [[Setup Models]]
